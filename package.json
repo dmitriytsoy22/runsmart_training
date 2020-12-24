@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dmitriytsoy22/buisness_practic.git"
+    "url": "git+https://github.com/presentor2000/presentor2000.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dmitriytsoy22/buisness_practic/issues"
+    "url": "https://github.com/presentor2000/presentor2000.git"
   },
-  "homepage": "https://github.com/dmitriytsoy22/buisness_practic#readme",
+  "homepage": "https://github.com/presentor2000/presentor2000#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
